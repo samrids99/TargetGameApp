@@ -25,5 +25,6 @@ const styles = StyleSheet.create({
     color: Colours.primary300,
     fontSize: 36,
     fontWeight: "bold",
+    fontFamily: "ZenDots",
   },
 });
