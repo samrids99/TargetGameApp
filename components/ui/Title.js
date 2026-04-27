@@ -17,5 +17,6 @@ const styles = StyleSheet.create({
     borderColor: "white",
     padding: 12,
     fontFamily: "ZenDots",
+    maxWidth: "80%",
   },
 });
